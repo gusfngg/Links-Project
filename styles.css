@@ -1,5 +1,5 @@
 * {
-    background-color: #121214;
+    background-color: #1B1F27;
     color: white;
     margin: 0;
     padding: 0;
@@ -7,15 +7,13 @@
     font-family: 'Roboto', sans-serif;
 }
 
-html
-
-
 .username {
     font-family: sans-serif;
     opacity: 0.5;
 }
 
 .PorGustavo {
+    color: #CBD0F7;
     font-family: 'Comfortaa';
     font-size: 13px;
     opacity: 0.7;
@@ -23,7 +21,7 @@ html
 }
 
 .PorGustavo:hover {
-    color: #72ab93;
+    color: #4cf08bb9;
 }
 
 .container {
@@ -41,7 +39,7 @@ img.avatar {
     border-radius: 50%;
     width: 100px;
     height: 100px;
-    border: #5b806b solid 4px;
+    border: #4cf08bb9 solid 4px;
     padding: 4px;
 }
 
@@ -62,7 +60,7 @@ ul li a {
     display: flex;
     align-items: center;
     justify-content: center;
-    background: #5c8876;
+    background: #4cf08bb9;
     color: black;
     text-decoration: none;
     text-transform: uppercase;
@@ -76,7 +74,7 @@ ul li a {
 }
 
 ul li a:hover {
-    background: #547a6a;
+    background: #206f3eeb;
 }
 
 
